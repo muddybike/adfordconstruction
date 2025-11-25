@@ -1,0 +1,44 @@
+[14-Dec-2021 23:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/header.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/header.php on line 13
+[14-Dec-2021 23:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/404.php on line 10
+[14-Dec-2021 23:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php on line 17
+[14-Dec-2021 23:18:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/archive.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/archive.php on line 20
+[01-Apr-2024 16:50:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php on line 17
+[05-Oct-2024 02:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php on line 17
+[05-Oct-2024 02:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php on line 17
+[05-Oct-2025 23:45:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php on line 17
+[05-Oct-2025 23:45:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php on line 17
+[05-Oct-2025 23:45:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php on line 17
+[06-Oct-2025 21:37:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/njlaundry/public_html/adfordconstruction.com/wp-content/themes/adford/index.php on line 17
